@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: mmistakes/minimal-mistakes
+
+title: Next Apps Lab
+description: Android software development organization
+
+url: "https://nextappslab.github.io"
+
+plugins:
+  - jekyll-include-cache
