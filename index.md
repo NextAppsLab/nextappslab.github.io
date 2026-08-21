@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Next Apps Lab
+## Next Apps Lab
 
 Building modern Android applications.
 
