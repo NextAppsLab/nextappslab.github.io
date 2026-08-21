@@ -1,11 +1,13 @@
----
-layout: home
----
+title: Next Apps Lab
 
-## Next Apps Lab
+description: >
+  Building the next generation of mobile experiences.
 
-Building modern Android applications.
+remote_theme: mmistakes/minimal-mistakes
 
-## Our Projects
+plugins:
+  - jekyll-remote-theme
 
-Coming soon...
+logo: "/assets/images/logo.png"
+
+markdown: kramdown

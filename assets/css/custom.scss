@@ -1,0 +1,49 @@
+---
+---
+
+@import "minimal-mistakes";
+
+
+body {
+
+font-family:
+"Inter",
+"Segoe UI",
+sans-serif;
+
+}
+
+
+h1 {
+
+color:#0F172A;
+
+}
+
+
+a {
+
+color:#0066FF;
+
+}
+
+
+.page__hero {
+
+background:
+linear-gradient(
+135deg,
+#ffffff,
+#eaf4ff
+);
+
+}
+
+
+.btn {
+
+border-radius:12px;
+
+background:#0066FF;
+
+}

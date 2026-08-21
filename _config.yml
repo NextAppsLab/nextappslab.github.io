@@ -1,9 +1,25 @@
-remote_theme: mmistakes/minimal-mistakes
+---
+layout: splash
+---
 
-title: Next Apps Lab
-description: Android software development organization
+# Building the next generation of mobile experiences
 
-url: "https://nextappslab.github.io"
+We create modern Android applications
+with innovative technology and thoughtful design.
 
-plugins:
-  - jekyll-include-cache
+
+## Featured Apps
+
+Coming soon.
+
+
+## Technology
+
+### Android
+Native Android development with Kotlin.
+
+### Modern UI
+Beautiful interfaces with Jetpack Compose.
+
+### Cloud
+Reliable backend infrastructure.
