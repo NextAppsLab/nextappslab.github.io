@@ -1,25 +1,13 @@
----
-layout: splash
----
+title: Next Apps Lab
 
-# Building the next generation of mobile experiences
+description: Building the next generation of mobile experiences.
 
-We create modern Android applications
-with innovative technology and thoughtful design.
+remote_theme: mmistakes/minimal-mistakes
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
-## Featured Apps
+logo: "/assets/images/logo.png"
 
-Coming soon.
-
-
-## Technology
-
-### Android
-Native Android development with Kotlin.
-
-### Modern UI
-Beautiful interfaces with Jetpack Compose.
-
-### Cloud
-Reliable backend infrastructure.
+minimal_mistakes_skin: "default"

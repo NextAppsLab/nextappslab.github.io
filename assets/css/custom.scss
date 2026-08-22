@@ -7,8 +7,8 @@
 body {
 
 font-family:
-"Inter",
-"Segoe UI",
+Inter,
+Arial,
 sans-serif;
 
 }
@@ -16,34 +16,20 @@ sans-serif;
 
 h1 {
 
-color:#0F172A;
+color:#0A1A3A;
 
 }
 
 
 a {
 
-color:#0066FF;
+color:#1166FF;
 
 }
 
 
-.page__hero {
+img {
 
-background:
-linear-gradient(
-135deg,
-#ffffff,
-#eaf4ff
-);
-
-}
-
-
-.btn {
-
-border-radius:12px;
-
-background:#0066FF;
+border-radius:20px;
 
 }
