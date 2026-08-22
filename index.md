@@ -28,7 +28,7 @@ Coming soon.
 
 ### Android
 
-Native Android development using Kotlin.
+Native Android development using Java.
 
 
 ### Modern UI
